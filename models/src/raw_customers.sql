@@ -1,3 +1,6 @@
+
+{{config (materizelied='table')}}
+
 with raw_cust_lists
 as
 (
